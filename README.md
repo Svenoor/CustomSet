@@ -21,7 +21,7 @@ main.cpp: Source file containing the main function to demonstrate the usage of t
    ```sh
    g++ -o CustomSet main.cpp CustomSet.cpp
    ./CustomSet
-## Here is a sample interaction with the Tool.
+## Here is a sample output of the program.
 Set Manipulation Tool
 1. Add a member
 2. Remove a member
