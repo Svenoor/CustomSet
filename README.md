@@ -23,7 +23,6 @@ main.cpp: Source file containing the main function to demonstrate the usage of t
    ./CustomSet
 ## Here is a sample interaction of the program.
 Set Manipulation Tool
-Set Manipulation Tool
 1. Add a member
 2. Remove a member
 3. Check if a value is a member
